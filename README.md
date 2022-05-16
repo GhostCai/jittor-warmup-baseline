@@ -6,7 +6,7 @@
 
 ## 安装 
 ```bash
-git clone https://gitlink.org.cn/GhostCai/jittor_warmup_baseline.git
+git clone https://github.com/GhostCai/jittor-warmup-baseline
 ```
 
 本项目可在 1 张 2080Ti 上运行，训练时间约为 10分钟。
